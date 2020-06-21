@@ -1,0 +1,22 @@
+.container{
+    margin: -40px;
+}
+body{
+    background-image: url(fundo.jpg);
+    background-size: 1280px;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+.container3{
+    font-size: 15px;
+    color: black;
+    background-color:#cccc;
+    padding: 20px 15px;
+    border-radius: 5px;
+}
+input{
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+}
